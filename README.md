@@ -4,7 +4,7 @@
 
 <img src = "Scikit Learn Algorithms.png">
 
-### Choosing the Right Model for our Data Set is very Impportant Task, We Try Different Models for Different types of Data Sets.
+### Choosing the Right Model for our Data Set is very Important Task, We Try Different Models for Different types of Data Sets.
 
 ### Finding the Right Estimator to get More Accuracy, there is a Scikit Learn Cheat Sheet Map which can help us to get better Accuracy.
 
@@ -15,3 +15,9 @@
 ### Even Accuracy can be Improved further with the Help of Increasing the Number of Estimators or by Finding the Best Estimators using Cross Fold Validations or any Ensemble Random Forest Regressor or Classifier.
 
 ### Here you will Find the Solution for Regression and Classification through a Simple Example of Boston Data Set and Heart Disease Data Set.
+
+## Tips :
+
+### If you have a Structured Data i.e. Tables (Data Frames), Use Ensemble Methods (Ensemble Regressors or Classifiers). 
+
+### Always Remember Being a Data Scientist - Machine Learning, never get scared of Failing, Start slowly but be consistent, Day by Day you will Find that the Time between your Experiments will start reducing.
